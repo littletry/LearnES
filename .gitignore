@@ -9,4 +9,10 @@
 # misc
 .DS_Store
 npm-debug.log*
-/.idea/
+/.idea/codeStyles
+/.idea/inspectionProfiles
+/.idea/LearnES.iml
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/vcs.xml
+/.idea/workspace.xml
